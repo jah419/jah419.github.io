@@ -18,3 +18,7 @@ Bar Chart:
 Line Chart:
 
 <iframe title="Chart: Lehigh College Enrollment" aria-describedby="Percentage of enrollment in each of Lehigh's three colleges." id="datawrapper-chart-2BbOb" src="//datawrapper.dwcdn.net/2BbOb/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"])for(var t in a.data["datawrapper-height"]){var e=document.getElementById("datawrapper-chart-"+t);e&&(e.style.height=a.data["datawrapper-height"][t]+"px")}})}();</script>
+
+Week 5 Day 2 Project:
+Police Incident Reports Over Time
+<iframe title="Chart: SFPD Incident Reports" aria-describedby="" id="datawrapper-chart-xdnki" src="//datawrapper.dwcdn.net/xdnki/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"])for(var t in a.data["datawrapper-height"]){var e=document.getElementById("datawrapper-chart-"+t);e&&(e.style.height=a.data["datawrapper-height"][t]+"px")}})}();</script>
