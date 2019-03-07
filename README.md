@@ -25,3 +25,6 @@ Police Incident Reports Over Time
 
 Virtual Tour:
 <iframe width="100%" height="480px" src="https://poly.google.com/view/1p6VwLkZ1PZ/embed?chrome=min" frameborder="0" style="border:none;" allowvr="yes" allow="vr; xr; accelerometer; magnetometer; gyroscope; autoplay;" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" onmousewheel="" ></iframe>
+
+Data Scraping Visualization:
+<iframe title="Chart: Historical Real Per Capita Household Income" aria-describedby="Compares historical real per capita household income with that of the US, California, and San Francisco." id="datawrapper-chart-ybIOy" src="//datawrapper.dwcdn.net/ybIOy/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important;" height="403"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"])for(var t in a.data["datawrapper-height"]){var e=document.getElementById("datawrapper-chart-"+t);e&&(e.style.height=a.data["datawrapper-height"][t]+"px")}})}();</script>
