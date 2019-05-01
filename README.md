@@ -7,9 +7,9 @@ I am a senior at Lehigh University majoring in Computer Science and Business.
 **Something in bold**  
 [Markdown Cheatsheet](https://www.markdownguide.org/cheat-sheet/)  
 
-https://public.tableau.com/profile/jay.hui#!/vizhome/SanFranciscoOccupations2009-2018/Occupations?publish=yes
+[FINAL PROJECT TABLEAU](https://public.tableau.com/profile/jay.hui#!/vizhome/SanFranciscoOccupations2009-2018/Occupations?publish=yes)
 
-http://datawrapper.dwcdn.net/tpnQH/1/
+[FINAL PROJECT DATAWRAPPER](http://datawrapper.dwcdn.net/tpnQH/1/)
 
 Pie Chart:
 
